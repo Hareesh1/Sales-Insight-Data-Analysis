@@ -29,7 +29,7 @@ The dataset used in this project includes the following components:
 ---
 
 ## Tools and Technologies
-
+### Tools: Power BI | MySQL | DAX | Power Query
 * Power BI Desktop
 * Power Query for data cleaning and transformation
 * DAX (Data Analysis Expressions) for data modeling and calculations
@@ -38,6 +38,15 @@ The dataset used in this project includes the following components:
 ---
 
 ## Dashboard Features
+
+### Key Features
+- MySQL database → Power Query ETL → Star Schema data model
+- DAX measures: Revenue, Profit Margin, YoY Growth
+- Multi-page dashboard with drill-through & dynamic slicers
+- Data quality handling: currency normalization, deduplication
+
+### Dashboard Preview
+
 
 ### Sales Analysis
 
@@ -99,6 +108,7 @@ The dataset used in this project includes the following components:
 ```
 ├── final_power_bi.pbix
 ├── README.md
+├── Data
 ```
 
 ---
