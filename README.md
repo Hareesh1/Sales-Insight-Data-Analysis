@@ -46,7 +46,7 @@ The dataset used in this project includes the following components:
 - Data quality handling: currency normalization, deduplication
 
 ### Dashboard Preview
-
+![image alt](https://github.com/Hareesh1/Sales-Insight-Data-Analysis/blob/773bec21baba2ad6a7054e27cf1d891759d01a51/Screenshot%202026-03-24%20233111.png)
 
 ### Sales Analysis
 
