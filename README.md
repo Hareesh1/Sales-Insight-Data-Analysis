@@ -1,4 +1,4 @@
-# Sales-Insight-Data-Analysy
+# Sales-Insight-Data-Analysis
 
 
 ## Project Overview
